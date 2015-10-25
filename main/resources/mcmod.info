@@ -1,0 +1,16 @@
+[
+{
+  "modid": "relapse",
+  "name": "Relapse",
+  "description": "Relapse.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["SquishyPrince"],
+  "credits": "Me.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
