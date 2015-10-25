@@ -1,2 +1,2 @@
 # forge-relapse
-A mod for Minecraft Forge.
+A mod for Minecraft made with Forge.
